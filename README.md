@@ -1,4 +1,4 @@
-Project for demonstration of educational projects
+#### Project for demonstration of educational projects.
 
 https://belyaevigoryurievich.github.io/map/ - Map
 
